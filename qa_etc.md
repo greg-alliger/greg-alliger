@@ -125,9 +125,9 @@ Depending on the accuracy required for your project, you may have to adjust your
 	- Left click on Filter…
 - Filter sabs_boundaries using the “ncessch” values of new SABs.
 	- Create a query like:
-    	'''
-    	“ncessch” in (‘120018000235’, ‘120018000233’, ‘120018000236’, …)
-    	'''
+        '''sql
+        “ncessch” in (‘120018000235’, ‘120018000233’, ‘120018000236’, …)
+        '''
 	- See Figure 2.
 ![filter example](https://github.com/greg-alliger/greg-alliger/blob/main/filter.png "This is how we filter")
 
