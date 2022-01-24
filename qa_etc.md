@@ -111,7 +111,7 @@ Depending on the accuracy required for your project, you may have to adjust your
 - Enter your connection information (as shown in the Figure 1).
 - Expand your new PostGIS connection in the Browser.
 - Load census.schools.sabs_boundaries by dragging it into your map.
-![how to connect to PostGIS in QGIS](https://github.com/greg-alliger/greg-alliger/postgis_connect.png "Connect to PostGIS")
+![how to connect to PostGIS in QGIS](https://github.com/greg-alliger/greg-alliger/blob/main/postgis_connect.png "Connect to PostGIS")
 
 ### Load new SABs
 
@@ -127,7 +127,7 @@ Depending on the accuracy required for your project, you may have to adjust your
 	- Create a query like:
 			“ncessch” in (‘120018000235’, ‘120018000233’, ‘120018000236’, …)
 	- See Figure 2.
-![filter example](https://github.com/greg-alliger/greg-alliger/filter.png "This is how we filter")
+![filter example](https://github.com/greg-alliger/greg-alliger/blob/main/filter.png "This is how we filter")
 
 
 ### Detect Dataset Changes
